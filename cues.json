@@ -1,0 +1,244 @@
+[
+	{
+		"time": [0,0],
+		"sel": "#introduction-ANIls3",
+		"text": "Introduction"
+	},
+	{
+		"time": [0,30],
+		"sel": "#id-6QeIz",
+		"scroll": true
+	},
+	{
+		"time": [1,12],
+		"sel": "#id-6mYhB",
+		"scroll": true
+	},
+	{
+		"time": [1,23],
+		"sel": "#id-jEhaur",
+		"scroll": true,
+		"text": "Categorical Features"
+	},
+	{
+		"time": [2,18],
+		"sel": "#id-eJhvS3",
+		"scroll": true
+	},
+	{
+		"time": [3,10],
+		"sel": "#id-qYhpt0",
+		"scroll": true
+	},
+	{
+		"time": [3,51],
+		"sel": "#id-aEhbcB",
+		"scroll": true
+	},
+	{
+		"time": [4,4],
+		"sel": "#id-pYhXIn",
+		"scroll": true
+	},
+	{
+		"time": [4,35],
+		"sel": "#id-oYhMho",
+		"scroll": true
+	},
+	{
+		"time": [5,14],
+		"sel": "#id-vVI3u0",
+		"scroll": true,
+		"text": "Text Features"
+	},
+	{
+		"time": [6,26],
+		"sel": "#id-YkhnHZ",
+		"scroll": true
+	},
+	{
+		"time": [6,53],
+		"sel": "#id-gYh3t1",
+		"scroll": true
+	},
+	{
+		"time": [8,9],
+		"sel": "#id-aEhvia",
+		"scroll": true
+	},
+	{
+		"time": [8,42],
+		"sel": "#id-XDhPTNc5",
+		"scroll": true,
+		"text": "Example: Classification"
+	},
+	{
+		"time": [9,34],
+		"sel": "#id-ZGh3Sgc1",
+		"scroll": true
+	},
+	{
+		"time": [9,53],
+		"sel": "#id-V0hgFDcO",
+		"scroll": true
+	},
+	{
+		"time": [10,28],
+		"sel": "#id-8zhrfNce",
+		"scroll": true
+	},
+	{
+		"time": [10,44],
+		"sel": "#id-ARhXIkc4",
+		"scroll": true
+	},
+	{
+		"time": [11,22],
+		"sel": "#id-kYh5hecO",
+		"scroll": true
+	},
+	{
+		"time": [11,31],
+		"sel": "#id-5Zhys4cP",
+		"scroll": true
+	},
+	{
+		"time": [12,26],
+		"sel": "#id-NohjSBc3",
+		"scroll": true
+	},
+	{
+		"time": [13,0],
+		"sel": "#id-29h8Hxc4",
+		"scroll": true
+	},
+	{
+		"time": [13,0],
+		"sel": "#id-29h8Hxc4",
+		"scroll": true
+	},
+	{
+		"time": [14,4],
+		"sel": "#id-vVIxsM",
+		"scroll": true,
+		"text": "Image Features"
+	},
+	{
+		"time": [15,19],
+		"sel": "#id-j2IauP",
+		"scroll": true
+	},
+	{
+		"time": [16,37],
+		"sel": "#id-qYhWHq",
+		"scroll": true
+	},
+	{
+		"time": [17,12],
+		"sel": "#hog-in-action-a-simple-face-detector-J5I3Fd",
+		"scroll": true,
+		"text": "HOG in Action"
+	},
+	{
+		"time": [18,11],
+		"sel": "#id-pYhVuntA",
+		"scroll": true,
+		"text": "Step 1"
+	},
+	{
+		"time": [18,37],
+		"sel": "#id-98hduefR",
+		"scroll": true,
+		"text": "Step 2"
+	},
+	{
+		"time": [19,7],
+		"sel": "#id-oYhkTjf0",
+		"scroll": true
+	},
+	{
+		"time": [19,17],
+		"sel": "#id-ZGhoHVfG",
+		"scroll": true
+	},
+	{
+		"time": [19,42],
+		"sel": "#id-oYhru4i0",
+		"scroll": true,
+		"text": "Step 3"
+	},
+	{
+		"time": [20,47],
+		"sel": "#id-93IdudcR",
+		"scroll": true,
+		"text": "Step 4"
+	},
+	{
+		"time": [21,33],
+		"sel": "#id-V0h4HDc0",
+		"scroll": true
+	},
+	{
+		"time": [22,17],
+		"sel": "#id-xYhAf2ck",
+		"scroll": true
+	},
+	{
+		"time": [22,30],
+		"sel": "#id-ZGhDueIG",
+		"scroll": true,
+		"text": "Step 5"
+	},
+	{
+		"time": [22,55],
+		"sel": "#id-V0hlS2I0",
+		"scroll": true
+	},
+	{
+		"time": [23,37],
+		"sel": "#id-8zhyFWIq",
+		"scroll": true
+	},
+	{
+		"time": [23,58],
+		"sel": "#id-0ahVfpIz",
+		"scroll": true
+	},
+	{
+		"time": [24,32],
+		"sel": "#id-oaI4sMU0",
+		"scroll": true,
+		"text": "Caveats"
+	},
+	{
+		"time": [24,52],
+		"sel": "#id-ZXI9sxuDU4",
+		"scroll": true
+	},
+	{
+		"time": [25,14],
+		"sel": "#id-dkIrswT2UG",
+		"scroll": true
+	},
+	{
+		"time": [25,35],
+		"sel": "#id-VEIvsESBUx",
+		"scroll": true
+	},
+	{
+		"time": [25,55],
+		"sel": "#id-z0IAsyHMUW",
+		"scroll": true
+	},
+	{
+		"time": [26,9],
+		"sel": "#id-82ImsRFjUw",
+		"scroll": true
+	},
+	{
+		"time": [27,4],
+		"sel": "#id-j2Ivsa",
+		"scroll": true,
+		"text": "Summary"
+	}
+]
